@@ -22,4 +22,4 @@ voici la liste des commandes du bot:
 - !mp pour envoyer un message a la personne souhaité 
 
 ## Contact
-- twitter [@tripleS7T](twitter.com/tripleS7T)
+- twitter [@tripleS7T](www.twitter.com/tripleS7T)
