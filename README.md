@@ -2,16 +2,16 @@
 
 Mjölnir est un bot modérateur simple et efficace
 
-## Installation
+## Installation 📦
 
 le lien suivant vous permettra de l'utiliser sur un serveur discord :
 
 [Inviter](https://discord.com/api/oauth2/authorize?client_id=750093380414865459&permissions=8&scope=bot)
 
-## Aide
+## Fonctionnalités ✅
 voici la liste des commandes du bot:
 
-- prefix !
+- prefix des commandes !
 
 - !help pour la liste des commandes
 
@@ -21,5 +21,6 @@ voici la liste des commandes du bot:
 
 - !mp pour envoyer un message a la personne souhaité 
 
-## Contact
+## Contact 👋
+
 - twitter [@tripleS7T](www.twitter.com/tripleS7T)
