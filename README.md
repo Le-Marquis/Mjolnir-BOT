@@ -21,6 +21,12 @@ voici la liste des commandes du bot:
 
 - !mp pour envoyer un message a la personne souhaité 
 
-## Contact 👋
+pour les permissions suivantes il faut que le bot ait les permission en question dans le role de bot ⚠️
+
+- !kick pour expulser un utilisateur du serveur 
+
+- !ban pour bannir un utilisateur du serveur 
+
+## Contact 📬
 
 - twitter [@tripleS7T](www.twitter.com/tripleS7T)
