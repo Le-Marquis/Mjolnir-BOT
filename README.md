@@ -15,6 +15,8 @@ voici la liste des commandes du bot:
 
 - !help pour la liste des commandes
 
+- !ping pour effectuer un ping
+
 - !clear pour effacer les messages dans un canal il doit etre suivi d'une valeur numerique pour le nombre de messages a supprimer
 
 - !profile pour afficher son profile
