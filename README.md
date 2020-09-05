@@ -11,23 +11,23 @@ le lien suivant vous permettra de l'utiliser sur un serveur discord :
 ## Fonctionnalités ✅
 voici la liste des commandes du bot:
 
-- prefix des commandes !
+- prefix des commandes /
 
-- !help pour la liste des commandes
+- /help pour la liste des commandes
 
-- !ping pour effectuer un ping
+- /ping pour effectuer un ping
 
-- !clear pour effacer les messages dans un canal il doit etre suivi d'une valeur numerique pour le nombre de messages a supprimer
+- /clear pour effacer les messages dans un canal il doit etre suivi d'une valeur numerique pour le nombre de messages a supprimer
 
-- !profile pour afficher son profile
+- /profile pour afficher son profile
 
-- !mp pour envoyer un message a la personne souhaité 
+- /mp pour envoyer un message a la personne souhaité 
 
 pour les permissions suivantes il faut que le bot ait les permission en question dans le role de bot ⚠️
 
-- !kick pour expulser un utilisateur du serveur 
+- /kick pour expulser un utilisateur du serveur 
 
-- !ban pour bannir un utilisateur du serveur 
+- /ban pour bannir un utilisateur du serveur 
 
 ## Contact 📬
 
